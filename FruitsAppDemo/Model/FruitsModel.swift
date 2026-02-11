@@ -1,12 +1,10 @@
 //
 //  FruitsModel.swift
 //  FruitsAppDemo
-//
 //  Created by Suraj Parshad on 10/02/26.
 //
 
 import SwiftUI
-
 struct FruitsModel: Identifiable{
     var id : UUID?
     var title : String

@@ -1,7 +1,6 @@
 //
 //  StartButtonView.swift
 //  FruitsAppDemo
-//
 //  Created by Suraj Parshad on 10/02/26.
 //
 

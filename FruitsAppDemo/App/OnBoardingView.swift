@@ -17,14 +17,6 @@ struct OnBoardingView: View {
                 .tabViewStyle(PageTabViewStyle())
                     .padding(.vertical ,20)
             }
-//        TabView {
-//            ForEach(0..<5, id: \.self) { item in
-//                FruitView()
-//            }//Loop
-//        } //: TabView
-//        .tabViewStyle(PageTabViewStyle())
-//        .padding(.vertical, 20)
-//    }
 }
 #Preview {
     OnBoardingView()
