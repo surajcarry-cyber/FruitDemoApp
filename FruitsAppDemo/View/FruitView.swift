@@ -6,12 +6,10 @@
 //
 
 import SwiftUI
-
 struct FruitView: View {
     
     // MARK: Property
     @State private var isAnimating: Bool = false
-    
     var body: some View {
         ZStack {
             VStack(spacing: 20){
